@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE biblioteca SYSTEM "biblioteca.dtd">
+
+<biblioteca>
+    <libro>
+        <titulo>Don Quijote de la Mancha</titulo>
+        <autor>Miguel de Cervantes</autor>
+        <publicacion>1605</publicacion>
+        <genero>Novela picaresca</genero>
+    </libro>
+    <libro>
+        <titulo>1984</titulo>
+        <autor>George Orwell</autor>
+        <publicacion>1949</publicacion>
+        <genero>Distopía</genero>
+    </libro>
+    <libro>
+        <titulo>El gran Gatsby</titulo>
+        <autor>F. Scott Fitzgerald</autor>
+        <publicacion>1925</publicacion>
+        <genero>Novela histórica</genero>
+    </libro>
+    <libro>
+        <titulo>La Odisea</titulo>
+        <autor>Homero</autor>
+        <publicacion>800 a.C.</publicacion>
+        <genero>Epopeya</genero>
+    </libro>
+    <libro>
+        <titulo>Frankenstein</titulo>
+        <autor>Mary Shelley</autor>
+        <publicacion>1818</publicacion>
+        <genero>Ciencia ficción</genero>
+    </libro>
+    <libro>
+        <titulo>Orgullo y prejuicio</titulo>
+        <autor>Jane Austen</autor>
+        <publicacion>1813</publicacion>
+        <genero>Romance</genero>
+    </libro>
+    <libro>
+        <titulo>Ulises</titulo>
+        <autor>James Joyce</autor>
+        <publicacion>1922</publicacion>
+        <genero>Novela modernista</genero>
+    </libro>
+    <libro>
+        <titulo>Lolita</titulo>
+        <autor>Vladimir Nabokov</autor>
+        <publicacion>1955</publicacion>
+        <genero>Novela psicológica</genero>
+    </libro>
+    <libro>
+        <titulo>Matar un ruiseñor</titulo>
+        <autor>Harper Lee</autor>
+        <publicacion>1960</publicacion>
+        <genero>Novela del sur</genero>
+    </libro>
+    <libro>
+        <titulo>Crimen y castigo</titulo>
+        <autor>Fyodor Dostoevsky</autor>
+        <publicacion>1866</publicacion>
+        <genero>Novela filosófica</genero>
+    </libro>
+</biblioteca>
