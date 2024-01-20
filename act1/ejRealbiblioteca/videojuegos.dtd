@@ -1,0 +1,6 @@
+<!ELEMENT videojuegos (videojuego+)>
+<!ELEMENT videojuego (titulo, desarrollador, lanzamiento, genero)>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT desarrollador (#PCDATA)>
+<!ELEMENT lanzamiento (#PCDATA)>
+<!ELEMENT genero (#PCDATA)>

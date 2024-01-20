@@ -1,0 +1,9 @@
+<!ELEMENT coches (coche*)>
+<!ELEMENT coche (cod, marca, modelo, matricula, potencia, plazas, numPuertas)>
+<!ELEMENT cod (#PCDATA)>
+<!ELEMENT marca (#PCDATA)>
+<!ELEMENT modelo (#PCDATA)>
+<!ELEMENT matricula (#PCDATA)>
+<!ELEMENT potencia (#PCDATA)>
+<!ELEMENT plazas (#PCDATA)>
+<!ELEMENT numPuertas (#PCDATA)>

@@ -1,0 +1,6 @@
+<!ELEMENT BDcontactos (contacto*)>
+<!ELEMENT contacto (nombre, telefono, direccion, email)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT telefono (#PCDATA)>
+<!ELEMENT direccion (#PCDATA)>
+<!ELEMENT email (#PCDATA)>

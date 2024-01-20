@@ -1,0 +1,9 @@
+<!ELEMENT almacenMoviles (movil*)>
+<!ELEMENT movil (codigo, marca, modelo, IMEI, almacenamiento, RAM, pantalla)>
+<!ELEMENT codigo (#PCDATA)>
+<!ELEMENT marca (#PCDATA)>
+<!ELEMENT modelo (#PCDATA)>
+<!ELEMENT IMEI (#PCDATA)>
+<!ELEMENT almacenamiento (#PCDATA)>
+<!ELEMENT RAM (#PCDATA)>
+<!ELEMENT pantalla (#PCDATA)>

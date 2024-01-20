@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE almacenMoviles SYSTEM "almacenMoviles.dtd">
+
+<almacenMoviles>
+    <movil>
+      <codigo>1001</codigo>
+      <marca>Samsung</marca>
+      <modelo>Galaxy A52</modelo>
+      <IMEI>356789012345678</IMEI>
+      <almacenamiento>128 GB</almacenamiento>
+      <RAM>6 GB</RAM>
+      <pantalla>6.5 pulgadas</pantalla>
+    </movil>
+    <movil>
+      <codigo>1002</codigo>
+      <marca>Apple</marca>
+      <modelo>iPhone 12</modelo>
+      <IMEI>359012345678901</IMEI>
+      <almacenamiento>256 GB</almacenamiento>
+      <RAM>4 GB</RAM>
+      <pantalla>6.1 pulgadas</pantalla>
+    </movil>
+    <movil>
+      <codigo>1003</codigo>
+      <marca>Google</marca>
+      <modelo>Pixel 5</modelo>
+      <IMEI>351234567890123</IMEI>
+      <almacenamiento>128 GB</almacenamiento>
+      <RAM>8 GB</RAM>
+      <pantalla>6.0 pulgadas</pantalla>
+    </movil>
+    <movil>
+      <codigo>1004</codigo>
+      <marca>Xiaomi</marca>
+      <modelo>Redmi Note 10</modelo>
+      <IMEI>354567890123456</IMEI>
+      <almacenamiento>64 GB</almacenamiento>
+      <RAM>4 GB</RAM>
+      <pantalla>6.43 pulgadas</pantalla>
+    </movil>
+    <movil>
+      <codigo>1005</codigo>
+      <marca>OnePlus</marca>
+      <modelo>OnePlus 9</modelo>
+      <IMEI>359012345678902</IMEI>
+      <almacenamiento>256 GB</almacenamiento>
+      <RAM>12 GB</RAM>
+      <pantalla>6.55 pulgadas</pantalla>
+    </movil>
+    <movil>
+      <codigo>1006</codigo>
+      <marca>Motorola</marca>
+      <modelo>Moto G Power</modelo>
+      <IMEI>357890123456789</IMEI>
+      <almacenamiento>64 GB</almacenamiento>
+      <RAM>4 GB</RAM>
+      <pantalla>6.4 pulgadas</pantalla>
+    </movil>
+    <movil>
+      <codigo>1007</codigo>
+      <marca>Huawei</marca>
+      <modelo>P40 Lite</modelo>
+      <IMEI>356789012345679</IMEI>
+      <almacenamiento>128 GB</almacenamiento>
+      <RAM>6 GB</RAM>
+      <pantalla>6.4 pulgadas</pantalla>
+    </movil>
+    <movil>
+      <codigo>1008</codigo>
+      <marca>Sony</marca>
+      <modelo>Xperia 5 II</modelo>
+      <IMEI>354567890123457</IMEI>
+      <almacenamiento>128 GB</almacenamiento>
+      <RAM>8 GB</RAM>
+      <pantalla>6.1 pulgadas</pantalla>
+    </movil>
+    <movil>
+      <codigo>1009</codigo>
+      <marca>LG</marca>
+      <modelo>V60 ThinQ</modelo>
+      <IMEI>359012345678903</IMEI>
+      <almacenamiento>256 GB</almacenamiento>
+      <RAM>8 GB</RAM>
+      <pantalla>6.8 pulgadas</pantalla>
+    </movil>
+    <movil>
+      <codigo>1010</codigo>
+      <marca>Nokia</marca>
+      <modelo>8.3 5G</modelo>
+      <IMEI>357890123456790</IMEI>
+      <almacenamiento>128 GB</almacenamiento>
+      <RAM>6 GB</RAM>
+      <pantalla>6.81 pulgadas</pantalla>
+    </movil>
+  </almacenMoviles>

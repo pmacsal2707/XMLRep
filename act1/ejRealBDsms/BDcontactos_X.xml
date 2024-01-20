@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BDcontactos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:noNamespaceSchemaLocation="BDcontactos.xsd">
+<contacto>
+  <nombre>Juan Pérez</nombre>
+  <telefono>123-456-789</telefono>
+  <direccion>Gran Vía, 1, 28013 Madrid, España</direccion>
+  <email>juan.perez@gmail.com</email>
+</contacto>
+<contacto>
+  <nombre>Maria Rodriguez</nombre>
+  <telefono>987-654-310</telefono>
+  <direccion>Plaza Mayor, 3, 28012 Madrid, España</direccion>
+  <email>maria.rodriguez@gmail.com</email>
+</contacto>
+  <contacto>
+  <nombre>Luis Martínez</nombre>
+  <telefono>555-123-467</telefono>
+  <direccion>Museo del Prado, 9, 28014 Madrid, España</direccion>
+  <email>luis.martinez@gmail.com</email>
+</contacto>
+<contacto>
+  <nombre>Ana López</nombre>
+  <telefono>555-987-543</telefono>
+  <direccion>Puerta del Sol, 1, 28013 Madrid, España</direccion>
+  <email>ana.lopez@gmail.com</email>
+</contacto>
+<contacto>
+  <nombre>Pablo González</nombre>
+  <telefono>555-234-568</telefono>
+  <direccion>Estadio Santiago Bernabéu, Av. de Concha Espina, 1, 28036 Madrid, España</direccion>
+  <email>pablo.gonzalez@gmail.com</email>
+</contacto>
+<contacto>
+  <nombre>Isabel Castro</nombre>
+  <telefono>555-876-542</telefono>
+  <direccion>Templo de Debod, Calle Ferraz, 1, 28008 Madrid, España</direccion>
+  <email>isabel.castro@gmail.com</email>
+</contacto>
+<contacto>
+  <nombre>Carlos Ruiz</nombre>
+  <telefono>555-345-689</telefono>
+  <direccion>Parque del Retiro, Plaza de la Independencia, 7, 28001 Madrid, España</direccion>
+  <email>carlos.ruiz@gmail.com</email>
+</contacto>
+<contacto>
+  <nombre>Laura Fernández</nombre>
+  <telefono>555-765-421</telefono>
+  <direccion>Mercado de San Miguel, Plaza de San Miguel, 6, 28005 Madrid, España</direccion>
+  <email>laura.fernandez@gmail.com</email>
+</contacto>
+<contacto>
+  <nombre>Roberto Sánchez</nombre>
+  <telefono>555-456-790</telefono>
+  <direccion>Palacio Real, Calle de Bailén, 3, 28071 Madrid, España</direccion>
+  <email>roberto.sanchez@gmail.com</email>
+</contacto>
+<contacto>
+  <nombre>Elena Díaz</nombre>
+  <telefono>555-890-124</telefono>
+  <direccion>Cibeles Palace, Plaza de Cibeles, 1, 28014 Madrid, España</direccion>
+  <email>elena.diaz@gmail.com</email>
+</contacto>
+  </BDcontactos>
