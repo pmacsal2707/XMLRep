@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE clientes SYSTEM "clientes.dtd">
+<clientes>
+    <sede>
+        <dir1>Palacio Real de Riofrío</dir1>
+        <dir2>Bosque de Riofrío</dir2>
+        <empleado>Empleado 1</empleado>
+        <fecha>01/01/2024</fecha>
+        <cliente1>
+            <cod>001</cod>
+            <descripcion>Real Sitio de Riofrío</descripcion>
+            <numero>100</numero>
+            <coste>$200</coste>
+            <resumen>Resumen del Real Sitio de Riofrío</resumen>
+            <plazo>30 días</plazo>
+        </cliente1>
+    </sede>
+    <sede>
+        <dir1>Real Sitio de La Granja de San Ildefonso</dir1>
+        <dir2>Palacio Real de La Granja de San Ildefonso</dir2>
+        <empleado>Empleado 2</empleado>
+        <fecha>01/01/2024</fecha>
+        <cliente1>
+            <cod>002</cod>
+            <descripcion>Real Sitio de La Granja de San Ildefonso</descripcion>
+            <numero>101</numero>
+            <coste>$201</coste>
+            <resumen>Resumen del Real Sitio de La Granja de San Ildefonso</resumen>
+            <plazo>31 días</plazo>
+        </cliente1>
+    </sede>
+    <sede>
+        <dir1>Real Sitio de Aranjuez</dir1>
+        <dir2>Palacio Real de Aranjuez</dir2>
+        <empleado>Empleado 3</empleado>
+        <fecha>01/01/2024</fecha>
+        <cliente1>
+            <cod>003</cod>
+            <descripcion>Real Sitio de Aranjuez</descripcion>
+            <numero>102</numero>
+            <coste>$202</coste>
+            <resumen>Resumen del Real Sitio de Aranjuez</resumen>
+            <plazo>32 días</plazo>
+        </cliente1>
+    </sede>
+    <sede>
+        <dir1>Real Sitio de El Escorial</dir1>
+        <dir2>Monasterio de El Escorial</dir2>
+        <empleado>Empleado 4</empleado>
+        <fecha>01/01/2024</fecha>
+        <cliente1>
+            <cod>004</cod>
+            <descripcion>Real Sitio de El Escorial</descripcion>
+            <numero>103</numero>
+            <coste>$203</coste>
+            <resumen>Resumen del Real Sitio de El Escorial</resumen>
+            <plazo>33 días</plazo>
+        </cliente1>
+    </sede>
+    <sede>
+        <dir1>Real Sitio de Moncloa</dir1>
+        <dir2>Palace of Moncloa</dir2>
+        <empleado>Empleado 5</empleado>
+        <fecha>01/01/2024</fecha>
+        <cliente1>
+            <cod>005</cod>
+            <descripcion>Real Sitio de Moncloa</descripcion>
+            <numero>104</numero>
+            <coste>$204</coste>
+            <resumen>Resumen del Real Sitio de Moncloa</resumen>
+            <plazo>34 días</plazo>
+        </cliente1>
+    </sede>
+    <sede>
+        <dir1>Real Sitio de Fuencarral</dir1>
+        <dir2>Palace of Fuencarral</dir2>
+        <empleado>Empleado 6</empleado>
+        <fecha>01/01/2024</fecha>
+        <cliente1>
+            <cod>006</cod>
+            <descripcion>Real Sitio de Fuencarral</descripcion>
+            <numero>105</numero>
+            <coste>$205</coste>
+            <resumen>Resumen del Real Sitio de Fuencarral</resumen>
+            <plazo>35 días</plazo>
+        </cliente1>
+    </sede>
+    <sede>
+        <dir1>Real Sitio de Boadilla del Monte</dir1>
+        <dir2>Palace of Boadilla del Monte</dir2>
+        <empleado>Empleado 7</empleado>
+        <fecha>01/01/2024</fecha>
+        <cliente1>
+            <cod>007</cod>
+            <descripcion>Real Sitio de Boadilla del Monte</descripcion>
+            <numero>106</numero>
+            <coste>$206</coste>
+            <resumen>Resumen del Real Sitio de Boadilla del Monte</resumen>
+            <plazo>36 días</plazo>
+        </cliente1>
+    </sede>
+    <sede>
+        <dir1>Real Sitio de El Pardo</dir1>
+        <dir2>Palacio de El Pardo</dir2>
+        <empleado>Empleado 8</empleado>
+        <fecha>01/01/2024</fecha>
+        <cliente1>
+            <cod>008</cod>
+            <descripcion>Real Sitio de El Pardo</descripcion>
+            <numero>107</numero>
+            <coste>$207</coste>
+            <resumen>Resumen del Real Sitio de El Pardo</resumen>
+            <plazo>37 días</plazo>
+        </cliente1>
+    </sede>
+    <sede>
+        <dir1>Real Sitio de Valdemoro</dir1>
+        <dir2>Palacio de Valdemoro</dir2>
+        <empleado>Empleado 9</empleado>
+        <fecha>01/01/2024</fecha>
+        <cliente1>
+            <cod>009</cod>
+            <descripcion>Real Sitio de Valdemoro</descripcion>
+            <numero>108</numero>
+            <coste>$208</coste>
+            <resumen>Resumen del Real Sitio de Valdemoro</resumen>
+            <plazo>38 días</plazo>
+        </cliente1>
+    </sede>
+    <sede>
+        <dir1>Real Sitio de Mejorada del Campo</dir1>
+        <dir2>Palacio de Mejorada del Campo</dir2>
+        <empleado>Empleado 10</empleado>
+        <fecha>01/01/2024</fecha>
+        <cliente1>
+            <cod>010</cod>
+            <descripcion>Real Sitio de Mejorada del Campo</descripcion>
+            <numero>109</numero>
+            <coste>$209</coste>
+            <resumen>Resumen del Real Sitio de Mejorada del Campo</resumen>
+            <plazo>39 días</plazo>
+        </cliente1>
+    </sede>
+</clientes>

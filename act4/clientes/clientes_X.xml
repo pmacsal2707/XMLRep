@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<clientes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:noNamespaceSchemaLocation="clientes.xsd">
+    <sede>
+        <dir1>Dirección 1</dir1>
+        <dir2>Dirección 2</dir2>
+        <empleado>Empleado 1</empleado>
+        <fecha>Fecha 1</fecha>
+        <cliente1>
+            <cod>Código 1</cod>
+            <descripcion>Descripción 1</descripcion>
+            <numero>Número 1</numero>
+            <coste>Costo 1</coste>
+            <resumen>Resumen 1</resumen>
+            <plazo>Plazo 1</plazo>
+        </cliente1>
+    </sede>
+    <sede>
+        <dir1>Dirección 3</dir1>
+        <dir2>Dirección 4</dir2>
+        <empleado>Empleado 2</empleado>
+        <fecha>Fecha 2</fecha>
+        <cliente1>
+            <cod>Código 2</cod>
+            <descripcion>Descripción 2</descripcion>
+            <numero>Número 2</numero>
+            <coste>Costo 2</coste>
+            <resumen>Resumen 2</resumen>
+            <plazo>Plazo 2</plazo>
+        </cliente1>
+    </sede>
+    <sede>
+        <dir1>Dirección 5</dir1>
+        <dir2>Dirección 6</dir2>
+        <empleado>Empleado 3</empleado>
+        <fecha>Fecha 3</fecha>
+        <cliente1>
+            <cod>Código 4</cod>
+            <descripcion>Descripción 4</descripcion>
+            <numero>Número 4</numero>
+            <coste>Costo 4</coste>
+            <resumen>Resumen 4</resumen>
+            <plazo>Plazo 4</plazo>
+        </cliente1>
+    </sede>    
+</clientes>

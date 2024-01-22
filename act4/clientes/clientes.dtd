@@ -1,0 +1,13 @@
+<!ELEMENT clientes (sede*) >
+<!ELEMENT sede (dir1, dir2, empleado, fecha, cliente1) >
+<!ELEMENT dir1 (#PCDATA)>
+<!ELEMENT dir2 (#PCDATA)>
+<!ELEMENT empleado (#PCDATA)>
+<!ELEMENT fecha (#PCDATA)>
+<!ELEMENT cliente1 (cod, descripcion, numero, coste, resumen, plazo)>
+<!ELEMENT cod (#PCDATA)>
+<!ELEMENT descripcion (#PCDATA)>
+<!ELEMENT numero (#PCDATA)>
+<!ELEMENT coste (#PCDATA)>
+<!ELEMENT resumen (#PCDATA)>
+<!ELEMENT plazo (#PCDATA)>
