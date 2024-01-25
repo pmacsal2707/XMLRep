@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE alumnos SYSTEM "practicaCFGS.dtd">
+<alumnos>
+    <alumno>
+        <nif>23456789Z</nif>
+        <resultado>apto</resultado>
+        <ip>192.168.1.3</ip>
+    </alumno>
+    <alumno>
+        <nif>98765432Z</nif>
+        <resultado>No apto</resultado>
+        <mac>00:0a:95:9d:68:18</mac>
+    </alumno>
+    <alumno>
+        <nif>34567891Z</nif>
+        <resultado>apto</resultado>
+        <ip>192.168.1.4</ip>
+    </alumno>
+    <alumno>
+        <nif>76543219Z</nif>
+        <resultado>No apto</resultado>
+        <mac>00:0a:95:9d:68:19</mac>
+    </alumno>
+    <alumno>
+        <nif>45678912Z</nif>
+        <resultado>apto</resultado>
+        <ip>192.168.1.5</ip>
+    </alumno>
+    <alumno>
+        <nif>65432198Z</nif>
+        <resultado>No apto</resultado>
+        <mac>00:0a:95:9d:68:20</mac>
+    </alumno>
+    <alumno>
+        <nif>56789123Z</nif>
+        <resultado>apto</resultado>
+        <ip>192.168.1.6</ip>
+    </alumno>
+    <alumno>
+        <nif>54321987Z</nif>
+        <resultado>No apto</resultado>
+        <mac>00:0a:95:9d:68:21</mac>
+    </alumno>
+    <alumno>
+        <nif>67891234Z</nif>
+        <resultado>apto</resultado>
+        <ip>192.168.1.7</ip>
+    </alumno>
+    <alumno>
+        <nif>43219876Z</nif>
+        <resultado>No apto</resultado>
+        <mac>00:0a:95:9d:68:22</mac>
+    </alumno>
+</alumnos>

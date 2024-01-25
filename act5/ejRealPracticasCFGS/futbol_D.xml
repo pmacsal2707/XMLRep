@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE equipos SYSTEM "futbol.dtd">
+<equipos>
+    <equipo>
+        <nombre>Real Madrid</nombre>
+        <presupuesto>500000000</presupuesto>
+        <historia>El Real Madrid es uno de los clubes de fútbol más exitosos del mundo.</historia>
+        <diseño>Estrella blanca</diseño>
+    </equipo>
+    <equipo>
+        <nombre>Barcelona</nombre>
+        <presupuesto>450000000</presupuesto>
+        <historia>El Barcelona ha ganado numerosos títulos internacionales.</historia>
+        <color>Azul y gris</color>
+    </equipo>
+    <equipo>
+        <nombre>Manchester United</nombre>
+        <presupuesto>400000000</presupuesto>
+        <historia>El Manchester United es uno de los clubes de fútbol más antiguos del mundo.</historia>
+        <color>Rojo</color>
+    </equipo>
+    <equipo>
+        <nombre>Bayern Munich</nombre>
+        <presupuesto>350000000</presupuesto>
+        <historia>El Bayern Munich ha ganado numerosos títulos nacionales e internacionales.</historia>
+        <diseño>Rayas blancas y azules</diseño>
+    </equipo>
+    <equipo>
+        <nombre>Liverpool</nombre>
+        <presupuesto>300000000</presupuesto>
+        <historia>El Liverpool es conocido por su rivalidad con el Manchester United.</historia>
+        <color>Rojo</color>
+    </equipo>
+    <equipo>
+        <nombre>Juventus</nombre>
+        <presupuesto>250000000</presupuesto>
+        <historia>La Juventus es uno de los clubes de fútbol más exitosos de Italia.</historia>
+        <diseño>Rayas negras y blancas</diseño>
+    </equipo>
+    <equipo>
+        <nombre>PSG</nombre>
+        <presupuesto>200000000</presupuesto>
+        <historia>El PSG es uno de los clubes de fútbol más ricos del mundo.</historia>
+        <color>Blanco</color>
+    </equipo>
+    <equipo>
+        <nombre>Atletico Madrid</nombre>
+        <presupuesto>150000000</presupuesto>
+        <historia>El Atletico Madrid ha ganado numerosos títulos nacionales.</historia>
+        <diseño>Rayas verticales</diseño>
+    </equipo>
+    <equipo>
+        <nombre>Chelsea</nombre>
+        <presupuesto>100000000</presupuesto>
+        <historia>El Chelsea es uno de los clubes de fútbol más exitosos de Inglaterra.</historia>
+        <color>Azul</color>
+    </equipo>
+</equipos>

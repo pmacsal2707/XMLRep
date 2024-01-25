@@ -1,0 +1,7 @@
+<!ELEMENT equipos (equipo*)>
+<!ELEMENT equipo (nombre, presupuesto, (historia)?, (color | diseño)?)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT presupuesto (#PCDATA)>
+<!ELEMENT historia (#PCDATA)>
+<!ELEMENT color (#PCDATA)>
+<!ELEMENT diseño (#PCDATA)>
