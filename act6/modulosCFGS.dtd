@@ -1,0 +1,10 @@
+
+<!ELEMENT modulosProfesionales (moduloProfesional*)>
+<!ELEMENT moduloProfesional (nombre, horasSemanal, horasTotal, contenidos)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT horasSemanal (#PCDATA)>
+<!ELEMENT horasTotal (#PCDATA)>
+<!ELEMENT contenidos (unidadDidactica*)>
+<!ELEMENT unidadDidactica (tipo, descripcion)>
+<!ELEMENT tipo (#PCDATA)>
+<!ELEMENT descripcion (#PCDATA)>

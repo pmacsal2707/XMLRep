@@ -9,8 +9,10 @@
                 <xs:element name="nombre" type="xs:string"/>
                 <xs:element name="presupuesto" type="xs:string"/>
                 <xs:element name="historia" type="xs:string"/>
-                <xs:element minOccurs="0" type="xs:string" name="diseño"/>
-                <xs:element minOccurs="0" type="xs:string" name="color"/>
+                <xs:choice>
+                <xs:element type="xs:string" name="diseño"/>
+                <xs:element type="xs:string" name="color"/>
+              </xs:choice>
             </xs:sequence>
           </xs:complexType>
         </xs:element>
