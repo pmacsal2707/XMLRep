@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<restaurantes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:noNamespaceSchemaLocation="clientesV2.xsd">
+    <sucursal>
+        <direccion1>Avenida 456</direccion1>
+        <direccion2>Barrio Sur</direccion2>
+        <chef>Maria Garcia</chef>
+        <fecha>2022-05-02</fecha>
+        <plato1>
+            <codigo>002</codigo>
+            <descripcion>Gazpacho Andaluz</descripcion>
+            <cantidad>4</cantidad>
+            <precio>18.00</precio>
+            <ingredientes>Tomate, aceitunas, pan, aceite de oliva</ingredientes>
+            <tiempoPreparacion>30</tiempoPreparacion>
+        </plato1>
+    </sucursal>
+    <sucursal>
+        <direccion1>Calle 123</direccion1>
+        <direccion2>Colonia Centro</direccion2>
+        <chef>Juan Perez</chef>
+        <fecha>2022-05-01</fecha>
+        <plato1>
+            <codigo>001</codigo>
+            <descripcion>Paella Valenciana</descripcion>
+            <cantidad>4</cantidad>
+            <precio>20.00</precio>
+            <ingredientes>Arroz, pollo, verduras</ingredientes>
+            <tiempoPreparacion>60</tiempoPreparacion>
+        </plato1>
+    </sucursal>
+    <sucursal>
+        <direccion1>Calle 123</direccion1>
+        <direccion2>Colonia Centro</direccion2>
+        <chef>Juan Perez</chef>
+        <fecha>2022-05-01</fecha>
+        <plato1>
+            <codigo>001</codigo>
+            <descripcion>Pollo a la plancha</descripcion>
+            <cantidad>4</cantidad>
+            <precio>20.00</precio>
+            <ingredientes>Pollo, aceite de oliva, sal</ingredientes>
+            <tiempoPreparacion>10</tiempoPreparacion>
+        </plato1>
+    </sucursal>
+    <sucursal>
+        <direccion1>Calle 123</direccion1>
+        <direccion2>Colonia Centro</direccion2>
+        <chef>Juan Perez</chef>
+        <fecha>2022-05-01</fecha>
+        <plato1>
+            <codigo>001</codigo>
+            <descripcion>Huevos Rotos</descripcion>
+            <cantidad>4</cantidad>
+            <precio>20.00</precio>
+            <ingredientes>Huevos, chorizo</ingredientes>
+            <tiempoPreparacion>10</tiempoPreparacion>
+        </plato1>
+    </sucursal>
+    <sucursal>
+        <direccion1>Avenida 456</direccion1>
+        <direccion2>Barrio Sur</direccion2>
+        <chef>Maria Garcia</chef>
+        <fecha>2022-05-02</fecha>
+        <plato1>
+            <codigo>002</codigo>
+            <descripcion>Gazpacho Andaluz</descripcion>
+            <cantidad>4</cantidad>
+            <precio>18.00</precio>
+            <ingredientes>Tomate, aceitunas, pan, aceite de oliva</ingredientes>
+            <tiempoPreparacion>30</tiempoPreparacion>
+        </plato1>
+    </sucursal>
+    <sucursal>
+        <direccion1>Calle 123</direccion1>
+        <direccion2>Colonia Centro</direccion2>
+        <chef>Juan Perez</chef>
+        <fecha>2022-05-01</fecha>
+        <plato1>
+            <codigo>001</codigo>
+            <descripcion>Paella Valenciana</descripcion>
+            <cantidad>4</cantidad>
+            <precio>20.00</precio>
+            <ingredientes>Arroz, pollo, verduras</ingredientes>
+            <tiempoPreparacion>60</tiempoPreparacion>
+        </plato1>
+    </sucursal>
+    <sucursal>
+        <direccion1>Calle 123</direccion1>
+        <direccion2>Colonia Centro</direccion2>
+        <chef>Juan Perez</chef>
+        <fecha>2022-05-01</fecha>
+        <plato1>
+            <codigo>001</codigo>
+            <descripcion>Pollo a la plancha</descripcion>
+            <cantidad>4</cantidad>
+            <precio>20.00</precio>
+            <ingredientes>Pollo, aceite de oliva, sal</ingredientes>
+            <tiempoPreparacion>10</tiempoPreparacion>
+        </plato1>
+    </sucursal>
+    <sucursal>
+        <direccion1>Calle 123</direccion1>
+        <direccion2>Colonia Centro</direccion2>
+        <chef>Juan Perez</chef>
+        <fecha>2022-05-01</fecha>
+        <plato1>
+            <codigo>001</codigo>
+            <descripcion>Huevos Rotos</descripcion>
+            <cantidad>4</cantidad>
+            <precio>20.00</precio>
+            <ingredientes>Huevos, chorizo</ingredientes>
+            <tiempoPreparacion>10</tiempoPreparacion>
+        </plato1>
+    </sucursal>
+    <sucursal>
+        <direccion1>Via 654</direccion1>
+        <direccion2>Quartiere Trastevere</direccion2>
+        <chef>Antonio Rossi</chef>
+        <fecha>2022-05-05</fecha>
+        <plato1>
+            <codigo>005</codigo>
+            <descripcion>Patatas Bravas</descripcion>
+            <cantidad>4</cantidad>
+            <precio>10.00</precio>
+            <ingredientes>Patatas, pimiento, vinagre</ingredientes>
+            <tiempoPreparacion>15</tiempoPreparacion>
+        </plato1>
+    </sucursal>
+    <sucursal>
+        <direccion1>Rua 987</direccion1>
+        <direccion2>Bairro Alto</direccion2>
+        <chef>Miguel Santos</chef>
+        <fecha>2022-05-06</fecha>
+        <plato1>
+            <codigo>006</codigo>
+            <descripcion>Calamares a la Romana</descripcion>
+            <cantidad>4</cantidad>
+            <precio>25.00</precio>
+            <ingredientes>Calamares, aceite de oliva, limon</ingredientes>
+            <tiempoPreparacion>25</tiempoPreparacion>
+        </plato1>
+    </sucursal>
+    <sucursal>
+        <direccion1>Strada 123</direccion1>
+        <direccion2>Centru Civic</direccion2>
+        <chef>Elena Popescu</chef>
+        <fecha>2022-05-07</fecha>
+        <plato1>
+            <codigo>007</codigo>
+            <descripcion>Tarta de Santiago</descripcion>
+            <cantidad>4</cantidad>
+            <precio>30.00</precio>
+            <ingredientes>Hojaldre, crema, frutas</ingredientes>
+            <tiempoPreparacion>45</tiempoPreparacion>
+        </plato1>
+    </sucursal>
+    <sucursal>
+        <direccion1>Street 456</direccion1>
+        <direccion2>Downtown</direccion2>
+        <chef>James Johnson</chef>
+        <fecha>2022-05-08</fecha>
+        <plato1>
+            <codigo>008</codigo>
+            <descripcion>Churros con Chocolate</descripcion>
+            <cantidad>4</cantidad>
+            <precio>15.00</precio>
+            <ingredientes>Churros, chocolate, azúcar</ingredientes>
+            <tiempoPreparacion>20</tiempoPreparacion>
+        </plato1>
+    </sucursal>
+</restaurantes>

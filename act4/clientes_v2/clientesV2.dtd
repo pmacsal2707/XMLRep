@@ -1,0 +1,13 @@
+<!ELEMENT restaurantes (sucursal*) >
+<!ELEMENT sucursal (direccion1, direccion2, chef, fecha, plato1) >
+<!ELEMENT direccion1 (#PCDATA)>
+<!ELEMENT direccion2 (#PCDATA)>
+<!ELEMENT chef (#PCDATA)>
+<!ELEMENT fecha (#PCDATA)>
+<!ELEMENT plato1 (codigo, descripcion, cantidad, precio, ingredientes, tiempoPreparacion)>
+<!ELEMENT codigo (#PCDATA)>
+<!ELEMENT descripcion (#PCDATA)>
+<!ELEMENT cantidad (#PCDATA)>
+<!ELEMENT precio (#PCDATA)>
+<!ELEMENT ingredientes (#PCDATA)>
+<!ELEMENT tiempoPreparacion (#PCDATA)>

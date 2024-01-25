@@ -21,5 +21,4 @@ version="0.1" xml:lang="es">
       </xs:sequence>
     </xs:complexType>
   </xs:element>
-
 </xs:schema>
