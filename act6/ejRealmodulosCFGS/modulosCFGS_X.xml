@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<bachillerato xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:noNamespaceSchemaLocation="moduloCFGS.xsd">
+    <asignatura>
+        <nombre>Matemáticas</nombre>
+        <contenidos>
+            <tema>
+                <nombre>Álgebra</nombre>
+                <descripcion>Estudia los números, las operaciones y las relaciones entre ellos.</descripcion>
+            </tema>
+            <tema>
+                <nombre>Trigonometría</nombre>
+                <descripcion>Explora las relaciones entre los ángulos y los lados de los triángulos.</descripcion>
+            </tema>
+            <tema>
+                <nombre>Cálculo Diferencial</nombre>
+                <descripcion>Estudio de las derivadas y las aplicaciones de las derivadas en la resolución de problemas matemáticos.</descripcion>
+            </tema>
+            <tema>
+                <nombre>Probabilidad y Estadística</nombre>
+                <descripcion>Explora las probabilidades y estadísticas y cómo se aplican a los problemas del mundo real.</descripcion>
+            </tema>
+        </contenidos>
+    </asignatura>
+    <asignatura>
+        <nombre>Física</nombre>
+        <contenidos>
+            <tema>
+                <nombre>Termodinámica</nombre>
+                <descripcion>Investiga las propiedades de la energía y sus transformaciones.</descripcion>
+            </tema>
+            <tema>
+                <nombre>Mecánica</nombre>
+                <descripcion>Estudia los movimientos de los cuerpos y las fuerzas que los afectan.</descripcion>
+            </tema>
+            <tema>
+                <nombre>Optica</nombre>
+                <descripcion>Explora los fenómenos de la luz y cómo interactúa con diferentes materiales.</descripcion>
+            </tema>
+            <tema>
+                <nombre>Termodinamica Cuántica</nombre>
+                <descripcion>Investiga las propiedades de la materia a nivel cuántico y cómo estas propiedades influyen en la termodinámica.</descripcion>
+            </tema>
+        </contenidos>
+    </asignatura>
+    <asignatura>
+        <nombre>Química</nombre>
+        <contenidos>
+            <tema>
+                <nombre>Elementos y compuestos</nombre>
+                <descripcion>Estudia los elementos químicos y sus combinaciones para formar compuestos.</descripcion>
+            </tema>
+            <tema>
+                <nombre>Reacciones químicas</nombre>
+                <descripcion>Explora cómo los átomos interactúan para formar nuevos compuestos.</descripcion>
+            </tema>
+            <tema>
+                <nombre>Química Orgánica</nombre>
+                <descripcion>Explora las propiedades y comportamientos de los compuestos orgánicos.</descripcion>
+            </tema>
+            <tema>
+                <nombre>Química Analítica</nombre>
+                <descripcion>Estudia los métodos para identificar y cuantificar los elementos y compuestos en una muestra.</descripcion>
+            </tema>
+        </contenidos>
+    </asignatura>
+    <asignatura>
+        <nombre>Biología</nombre>
+        <contenidos>
+            <tema>
+                <nombre>Genética</nombre>
+                <descripcion>Investiga cómo los genes controlan las características de los organismos vivos.</descripcion>
+            </tema>
+            <tema>
+                <nombre>Ecología</nombre>
+                <descripcion>Estudia cómo los organismos viven juntos en ecosistemas.</descripcion>
+            </tema>
+            <tema>
+                <nombre>Microbiología</nombre>
+                <descripcion>Explora el estudio de los microorganismos y cómo interactúan con los humanos y con otros organismos.</descripcion>
+            </tema>
+            <tema>
+                <nombre>Zoología</nombre>
+                <descripcion>Estudia la biología de los animales, incluyendo su clasificación, anatomía, comportamiento y ecología.</descripcion>
+            </tema>
+    
+        </contenidos>
+    </asignatura>
+    <asignatura>
+        <nombre>Historia y Ciencias Sociales</nombre>
+        <contenidos>
+            <tema>
+                <nombre>Historia antigua</nombre>
+                <descripcion>Explora los eventos históricos desde la antigüedad hasta el medioevo.</descripcion>
+            </tema>
+            <tema>
+                <nombre>Sociología</nombre>
+                <descripcion>Investiga las estructuras sociales y cómo funcionan.</descripcion>
+            </tema>
+            <tema>
+                <nombre>Historia Contemporánea</nombre>
+                <descripcion>Explora los eventos históricos desde el siglo XX hasta la actualidad.</descripcion>
+            </tema>
+            <tema>
+                <nombre>Política</nombre>
+                <descripcion>Investiga las estructuras políticas y cómo estas afectan a la sociedad.</descripcion>
+            </tema>
+        </contenidos>
+    </asignatura>
+    <asignatura>
+        <nombre>Lengua y Literatura</nombre>
+        <contenidos>
+            <tema>
+                <nombre>Literatura española</nombre>
+                <descripcion>Estudia la literatura escrita en español desde la Edad Media hasta la actualidad.</descripcion>
+            </tema>
+            <tema>
+                <nombre>Teoría literaria</nombre>
+                <descripcion>Analiza cómo se interpretan y analizan las obras literarias.</descripcion>
+            </tema>
+            <tema>
+                <nombre>Literatura Hispanoamericana</nombre>
+                <descripcion>Estudia la literatura escrita en español fuera de España, desde la época colonial hasta la actualidad.</descripcion>
+            </tema>
+            <tema>
+                <nombre>Poesía</nombre>
+                <descripcion>Analiza la poesía y cómo se interpreta y analiza.</descripcion>
+            </tema>
+        </contenidos>
+    </asignatura>
+</bachillerato>

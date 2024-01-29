@@ -1,0 +1,7 @@
+<!ELEMENT modulosProfesionales (modulo*)>
+<!ELEMENT modulo (nombre, contenidos)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT contenidos (unidadDidactica*)>
+<!ELEMENT unidadDidactica (tipo, descripcion)>
+<!ELEMENT tipo (#PCDATA)>
+<!ELEMENT descripcion (#PCDATA)>

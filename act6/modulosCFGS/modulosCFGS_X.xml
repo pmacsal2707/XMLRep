@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<modulosProfesionales xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:noNamespaceSchemaLocation="moduloCFGS.xsd">
+    <modulo>
+        <nombre>Programación</nombre>
+        <contenidos>
+            <unidadDidactica>
+                <tipo>Introducción a la programación</tipo>
+                <descripcion>Esta unidad cubrirá los conceptos básicos de la programación, incluyendo variables, bucles y funciones.</descripcion>
+            </unidadDidactica>
+            <unidadDidactica>
+                <tipo>Estructuras de datos</tipo>
+                <descripcion>En esta unidad se explorarán diferentes tipos de estructuras de datos y cómo usarlas en la programación.</descripcion>
+            </unidadDidactica>
+            <unidadDidactica>
+                <tipo>Programación orientada a objetos</tipo>
+                <descripcion>Se introducirá el paradigma de la programación orientada a objetos, incluyendo clases, objetos y herencia.</descripcion>
+            </unidadDidactica>
+            <unidadDidactica>
+                <tipo>Pruebas unitarias y control de calidad</tipo>
+                <descripcion>Se explorarán técnicas para probar y mejorar la calidad del código de programación.</descripcion>
+            </unidadDidactica>
+        </contenidos>
+    </modulo>
+    <modulo>
+        <nombre>Base de Datos</nombre>
+        <contenidos>
+            <unidadDidactica>
+                <tipo>Introducción a las bases de datos</tipo>
+                <descripcion>Esta unidad proporcionará una visión general de las bases de datos y su importancia en el mundo digital.</descripcion>
+            </unidadDidactica>
+            <unidadDidactica>
+                <tipo>Modelado de bases de datos</tipo>
+                <descripcion>En esta unidad, se explorarán los conceptos clave del modelado de bases de datos, incluyendo entidades, relaciones y cardinalidad.</descripcion>
+            </unidadDidactica>
+            <unidadDidactica>
+                <tipo>SQL y consultas de bases de datos</tipo>
+                <descripcion>Se introducirá el lenguaje SQL y se aprenderán técnicas para escribir y optimizar consultas de bases de datos.</descripcion>
+            </unidadDidactica>
+            <unidadDidactica>
+                <tipo>Seguridad y privacidad en las bases de datos</tipo>
+                <descripcion>Se explorarán las prácticas recomendadas para garantizar la seguridad y la privacidad de los datos almacenados en las bases de datos.</descripcion>
+            </unidadDidactica>
+        </contenidos>
+    </modulo>
+    <modulo>
+        <nombre>Sistemas Informáticos</nombre>
+        <contenidos>
+            <unidadDidactica>
+                <tipo>Introducción a las tecnologías de la información y las comunicaciones</tipo>
+                <descripcion>Esta unidad cubrirá los conceptos básicos de la tecnología de la información y las comunicaciones, incluyendo las redes de computadoras y los protocolos de internet.</descripcion>
+            </unidadDidactica>
+            <unidadDidactica>
+                <tipo>Herramientas con aplicación en ingeniería para la gestión de proyectos</tipo>
+                <descripcion>En esta unidad, se explorarán las herramientas que se utilizan en la gestión de proyectos, como los diagramas de Gantt y PERT, así como otras herramientas de gestión de proyectos.</descripcion>
+            </unidadDidactica>
+            <unidadDidactica>
+                <tipo>Fundamentos de los sistemas operativos</tipo>
+                <descripcion>Se introducirán los conceptos básicos de los sistemas operativos, incluyendo servicios de un sistema operativo, interfaces de usuario, llamadas al sistema y diseño e implementación de un sistema operativo.</descripcion>
+            </unidadDidactica>
+            <unidadDidactica>
+                <tipo>Introducción a las bases de datos y al lenguaje SQL</tipo>
+                <descripcion>Se explorarán los conceptos básicos de las bases de datos y se introducirá el lenguaje SQL. Se cubrirán temas como la gestión de procesos, diseño de bases de datos, administración de bases de datos y seguridad de las bases de datos.</descripcion>
+            </unidadDidactica>
+        </contenidos>
+    </modulo>
+    <modulo>
+        <nombre>Lenguajes de Marca y Sistemas de Gestión de Información</nombre>
+        <contenidos>
+            <unidadDidactica>
+                <tipo>Introducción a HTML y CSS</tipo>
+                <descripcion>Esta unidad proporcionará una visión general de los lenguajes de marca HTML y CSS, incluyendo cómo crear y estilizar páginas web.</descripcion>
+            </unidadDidactica>
+            <unidadDidactica>
+                <tipo>JavaScript y su uso en la web</tipo>
+                <descripcion>En esta unidad, se explorarán los fundamentos de JavaScript y cómo se utiliza para añadir interactividad a las páginas web.</descripcion>
+            </unidadDidactica>
+            <unidadDidactica>
+                <tipo>Introducción a los sistemas de gestión de contenido (CMS)</tipo>
+                <descripcion>Se introducirán los sistemas de gestión de contenido, como WordPress y Drupal, y se aprenderá cómo se utilizan para crear y administrar sitios web.</descripcion>
+            </unidadDidactica>
+            <unidadDidactica>
+                <tipo>SEO y marketing digital</tipo>
+                <descripcion>Se explorarán las técnicas de SEO y marketing digital para ayudar a los sitios web a aparecer en los motores de búsqueda y atraer tráfico.</descripcion>
+            </unidadDidactica>
+        </contenidos>
+    </modulo>
+    <modulo>
+        <nombre>Entornos de Desarrollo</nombre>
+        <contenidos>
+            <unidadDidactica>
+                <tipo>Introducción a los entornos de desarrollo</tipo>
+                <descripcion>Esta unidad proporcionará una visión general de los entornos de desarrollo y su importancia en el desarrollo de software.</descripcion>
+            </unidadDidactica>
+            <unidadDidactica>
+                <tipo>Tipos de entornos de desarrollo</tipo>
+                <descripcion>En esta unidad, se explorarán diferentes tipos de entornos de desarrollo, incluyendo servidores de desarrollo, servidores de pruebas, servidores de puesta en escena y servidores de producción.</descripcion>
+            </unidadDidactica>
+            <unidadDidactica>
+                <tipo>Uso de entornos de desarrollo integrados (IDE)</tipo>
+                <descripcion>Se introducirán los entornos de desarrollo integrados, como Eclipse y NetBeans, y se aprenderá cómo se utilizan para escribir, generar, probar y depurar programas.</descripcion>
+            </unidadDidactica>
+            <unidadDidactica>
+                <tipo>Gestión de proyectos y entornos de desarrollo</tipo>
+                <descripcion>Se explorarán las mejores prácticas para la gestión de proyectos y el uso de entornos de desarrollo, incluyendo cómo minimizar los errores y mejorar la productividad.</descripcion>
+            </unidadDidactica>
+        </contenidos>
+    </modulo>
+    <modulo>
+        <nombre>Formación y Orientación Laboral</nombre>
+        <contenidos>
+            <unidadDidactica>
+                <tipo>Introducción a la formación y orientación laboral</tipo>
+                <descripcion>Esta unidad proporcionará una visión general de la formación y orientación laboral, incluyendo su importancia y objetivos.</descripcion>
+            </unidadDidactica>
+            <unidadDidactica>
+                <tipo>Campos de trabajo y habilidades requeridas</tipo>
+                <descripcion>En esta unidad, se explorarán los diferentes campos de trabajo disponibles y las habilidades necesarias para trabajar en cada uno.</descripcion>
+            </unidadDidactica>
+            <unidadDidactica>
+                <tipo>Derechos y deberes laborales</tipo>
+                <descripcion>Se introducirán los derechos y deberes laborales, incluyendo aspectos legales y éticos relacionados con el lugar de trabajo.</descripcion>
+            </unidadDidactica>
+            <unidadDidactica>
+                <tipo>Riesgos laborales y prevención</tipo>
+                <descripcion>Se explorarán los riesgos laborales comunes y las medidas preventivas para proteger la salud y la seguridad en el lugar de trabajo.</descripcion>
+            </unidadDidactica>
+        </contenidos>
+    </modulo>
+</modulosProfesionales>

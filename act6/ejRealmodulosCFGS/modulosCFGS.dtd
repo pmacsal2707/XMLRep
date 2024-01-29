@@ -1,0 +1,7 @@
+<!ELEMENT bachillerato (asignatura*)>
+<!ELEMENT asignatura (nombre, contenidos)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT contenidos (tema*)>
+<!ELEMENT tema (nombre, descripcion)>
+<!ELEMENT tipo (#PCDATA)>
+<!ELEMENT descripcion (#PCDATA)>
