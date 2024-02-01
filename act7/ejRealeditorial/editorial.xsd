@@ -1,86 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xs:schema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-  <xs:element name="EdicionesAranda">
+  <xs:element name="informeVentasAutomoviles">
     <xs:complexType>
       <xs:sequence>
-        <xs:element name="InformeRegionalVentas">
+        <xs:element name="informeRegionalAutomoviles">
           <xs:complexType>
             <xs:sequence>
               <xs:element name="Descripcion" type="xs:string" />
-              <xs:element name="Region">
+              <xs:element name="Ubicacion">
                 <xs:complexType>
                   <xs:sequence>
-                    <xs:element name="Norte">
+                    <xs:element name="EstadosUnidos">
                       <xs:complexType>
                         <xs:sequence>
-                          <xs:element name="Trimestres">
+                          <xs:element name="Periodos">
                             <xs:complexType>
                               <xs:sequence>
-                                <xs:element name="Trimestre1">
+                                <xs:element name="Primavera">
                                   <xs:complexType>
                                     <xs:sequence>
-                                      <xs:element name="librosVendidos" type="xs:unsignedByte" />
+                                      <xs:element name="automovilesVendidos" type="xs:unsignedByte" />
                                     </xs:sequence>
                                   </xs:complexType>
                                 </xs:element>
-                                <xs:element name="Trimestre2">
+                                <xs:element name="Verano">
                                   <xs:complexType>
                                     <xs:sequence>
-                                      <xs:element name="librosVendidos" type="xs:unsignedByte" />
+                                      <xs:element name="automovilesVendidos" type="xs:unsignedByte" />
                                     </xs:sequence>
                                   </xs:complexType>
                                 </xs:element>
-                                <xs:element name="Trimestre3">
+                                <xs:element name="Otoño">
                                   <xs:complexType>
                                     <xs:sequence>
-                                      <xs:element name="librosVendidos" type="xs:unsignedByte" />
+                                      <xs:element name="automovilesVendidos" type="xs:unsignedShort" />
                                     </xs:sequence>
                                   </xs:complexType>
                                 </xs:element>
-                                <xs:element name="Trimestre4">
+                                <xs:element name="Invierno">
                                   <xs:complexType>
                                     <xs:sequence>
-                                      <xs:element name="librosVendidos" type="xs:unsignedByte" />
-                                    </xs:sequence>
-                                    </xs:complexType>
-                                </xs:element>
-                              </xs:sequence>
-                            </xs:complexType>
-                          </xs:element>
-                        </xs:sequence>
-                      </xs:complexType>
-                    </xs:element>
-                    <xs:element name="Centro">
-                      <xs:complexType>
-                        <xs:sequence>
-                          <xs:element name="Trimestres">
-                            <xs:complexType>
-                              <xs:sequence>
-                                <xs:element name="Trimestre1">
-                                  <xs:complexType>
-                                    <xs:sequence>
-                                      <xs:element name="librosVendidos" type="xs:unsignedShort" />
-                                    </xs:sequence>
-                                  </xs:complexType>
-                                </xs:element>
-                                <xs:element name="Trimestre2">
-                                  <xs:complexType>
-                                    <xs:sequence>
-                                      <xs:element name="librosVendidos" type="xs:unsignedShort" />
-                                    </xs:sequence>
-                                  </xs:complexType>
-                                </xs:element>
-                                <xs:element name="Trimestre3">
-                                  <xs:complexType>
-                                    <xs:sequence>
-                                      <xs:element name="librosVendidos" type="xs:unsignedShort" />
-                                    </xs:sequence>
-                                  </xs:complexType>
-                                </xs:element>
-                                <xs:element name="Trimestre4">
-                                  <xs:complexType>
-                                    <xs:sequence>
-                                      <xs:element name="librosVendidos" type="xs:unsignedShort" />
+                                      <xs:element name="automovilesVendidos" type="xs:unsignedByte" />
                                     </xs:sequence>
                                   </xs:complexType>
                                 </xs:element>
@@ -90,37 +50,77 @@
                         </xs:sequence>
                       </xs:complexType>
                     </xs:element>
-                    <xs:element name="Sur">
+                    <xs:element name="Canada">
                       <xs:complexType>
                         <xs:sequence>
-                          <xs:element name="Trimestres">
+                          <xs:element name="Periodos">
                             <xs:complexType>
                               <xs:sequence>
-                                <xs:element name="Trimestre1">
+                                <xs:element name="Primavera">
                                   <xs:complexType>
                                     <xs:sequence>
-                                      <xs:element name="librosVendidos" type="xs:unsignedShort" />
+                                      <xs:element name="automovilesVendidos" type="xs:unsignedShort" />
                                     </xs:sequence>
                                   </xs:complexType>
                                 </xs:element>
-                                <xs:element name="Trimestre2">
+                                <xs:element name="Verano">
                                   <xs:complexType>
                                     <xs:sequence>
-                                      <xs:element name="librosVendidos" type="xs:unsignedShort" />
+                                      <xs:element name="automovilesVendidos" type="xs:unsignedByte" />
                                     </xs:sequence>
                                   </xs:complexType>
                                 </xs:element>
-                                <xs:element name="Trimestre3">
+                                <xs:element name="Otoño">
                                   <xs:complexType>
                                     <xs:sequence>
-                                      <xs:element name="librosVendidos" type="xs:unsignedShort" />
+                                      <xs:element name="automovilesVendidos" type="xs:unsignedByte" />
                                     </xs:sequence>
                                   </xs:complexType>
                                 </xs:element>
-                                <xs:element name="Trimestre4">
+                                <xs:element name="Invierno">
                                   <xs:complexType>
                                     <xs:sequence>
-                                      <xs:element name="librosVendidos" type="xs:unsignedShort" />
+                                      <xs:element name="automovilesVendidos" type="xs:unsignedShort" />
+                                    </xs:sequence>
+                                  </xs:complexType>
+                                </xs:element>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="Mexico">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="Periodos">
+                            <xs:complexType>
+                              <xs:sequence>
+                                <xs:element name="Primavera">
+                                  <xs:complexType>
+                                    <xs:sequence>
+                                      <xs:element name="automovilesVendidos" type="xs:unsignedShort" />
+                                    </xs:sequence>
+                                  </xs:complexType>
+                                </xs:element>
+                                <xs:element name="Verano">
+                                  <xs:complexType>
+                                    <xs:sequence>
+                                      <xs:element name="automovilesVendidos" type="xs:unsignedByte" />
+                                    </xs:sequence>
+                                  </xs:complexType>
+                                </xs:element>
+                                <xs:element name="Otoño">
+                                  <xs:complexType>
+                                    <xs:sequence>
+                                      <xs:element name="automovilesVendidos" type="xs:unsignedByte" />
+                                    </xs:sequence>
+                                  </xs:complexType>
+                                </xs:element>
+                                <xs:element name="Invierno">
+                                  <xs:complexType>
+                                    <xs:sequence>
+                                      <xs:element name="automovilesVendidos" type="xs:unsignedByte" />
                                     </xs:sequence>
                                   </xs:complexType>
                                 </xs:element>
