@@ -7,6 +7,11 @@
         <ip>192.168.1.3</ip>
     </alumno>
     <alumno>
+        <nif>23456789Z</nif>
+        <resultado>apto</resultado>
+        <ip>192.168.1.3</ip>
+    </alumno>
+    <alumno>
         <nif>98765432Z</nif>
         <resultado>No apto</resultado>
         <mac>00:0a:95:9d:68:18</mac>

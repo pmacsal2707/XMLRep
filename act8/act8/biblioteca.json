@@ -1,0 +1,66 @@
+{
+    "biblioteca": {
+      "libro": [
+        {
+          "titulo": "Don Quijote de la Mancha",
+          "autor": "Miguel de Cervantes",
+          "publicacion": 1605,
+          "genero": "Novela picaresca"
+        },
+        {
+          "titulo": 1984,
+          "autor": "George Orwell",
+          "publicacion": 1949,
+          "genero": "Distopía"
+        },
+        {
+          "titulo": "El gran Gatsby",
+          "autor": "F. Scott Fitzgerald",
+          "publicacion": 1925,
+          "genero": "Novela histórica"
+        },
+        {
+          "titulo": "La Odisea",
+          "autor": "Homero",
+          "publicacion": "800 a.C.",
+          "genero": "Epopeya"
+        },
+        {
+          "titulo": "Frankenstein",
+          "autor": "Mary Shelley",
+          "publicacion": 1818,
+          "genero": "Ciencia ficción"
+        },
+        {
+          "titulo": "Orgullo y prejuicio",
+          "autor": "Jane Austen",
+          "publicacion": 1813,
+          "genero": "Romance"
+        },
+        {
+          "titulo": "Ulises",
+          "autor": "James Joyce",
+          "publicacion": 1922,
+          "genero": "Novela modernista"
+        },
+        {
+          "titulo": "Lolita",
+          "autor": "Vladimir Nabokov",
+          "publicacion": 1955,
+          "genero": "Novela psicológica"
+        },
+        {
+          "titulo": "Matar un ruiseñor",
+          "autor": "Harper Lee",
+          "publicacion": 1960,
+          "genero": "Novela del sur"
+        },
+        {
+          "titulo": "Crimen y castigo",
+          "autor": "Fyodor Dostoevsky",
+          "publicacion": 1866,
+          "genero": "Novela filosófica"
+        }
+      ]
+    }
+  }

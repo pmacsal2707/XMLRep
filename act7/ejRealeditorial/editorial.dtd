@@ -1,0 +1,14 @@
+<!ELEMENT informeVentas (informeRegional)>
+<!ELEMENT informeRegional (Descripcion, Region)>
+<!ATTLIST informeRegional fecha CDATA #REQUIRED>
+<!ELEMENT Descripcion (#PCDATA)>
+<!ELEMENT Region (Norte, Centro, Sur)>
+<!ELEMENT Norte (Trimestres)>
+<!ELEMENT Centro (Trimestres)>
+<!ELEMENT Sur (Trimestres)>
+<!ELEMENT Trimestres (Trimestre1, Trimestre2, Trimestre3, Trimestre4)>
+<!ELEMENT Trimestre1 (librosVendidos)>
+<!ELEMENT Trimestre2 (librosVendidos)>
+<!ELEMENT Trimestre3 (librosVendidos)>
+<!ELEMENT Trimestre4 (librosVendidos)>
+<!ELEMENT librosVendidos (#PCDATA)>

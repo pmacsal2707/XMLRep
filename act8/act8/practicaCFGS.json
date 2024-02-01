@@ -1,0 +1,61 @@
+{
+    "alumnos": {
+      "alumno": [
+        {
+          "nif": "23456789Z",
+          "resultado": "apto",
+          "ip": "192.168.1.3"
+        },
+        {
+          "nif": "23456789Z",
+          "resultado": "apto",
+          "ip": "192.168.1.3"
+        },
+        {
+          "nif": "98765432Z",
+          "resultado": "No apto",
+          "mac": "00:0a:95:9d:68:18"
+        },
+        {
+          "nif": "34567891Z",
+          "resultado": "apto",
+          "ip": "192.168.1.4"
+        },
+        {
+          "nif": "76543219Z",
+          "resultado": "No apto",
+          "mac": "00:0a:95:9d:68:19"
+        },
+        {
+          "nif": "45678912Z",
+          "resultado": "apto",
+          "ip": "192.168.1.5"
+        },
+        {
+          "nif": "65432198Z",
+          "resultado": "No apto",
+          "mac": "00:0a:95:9d:68:20"
+        },
+        {
+          "nif": "56789123Z",
+          "resultado": "apto",
+          "ip": "192.168.1.6"
+        },
+        {
+          "nif": "54321987Z",
+          "resultado": "No apto",
+          "mac": "00:0a:95:9d:68:21"
+        },
+        {
+          "nif": "67891234Z",
+          "resultado": "apto",
+          "ip": "192.168.1.7"
+        },
+        {
+          "nif": "43219876Z",
+          "resultado": "No apto",
+          "mac": "00:0a:95:9d:68:22"
+        }
+      ]
+    }
+  }

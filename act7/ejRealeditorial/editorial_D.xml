@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE informeVentas SYSTEM "editorial.dtd">
+<informeVentas>
+    <informeRegional fecha="2024-01-29">
+        <Descripcion>Informe de Ventas Regionales</Descripcion>
+        <Region>
+            <Norte>
+                <Trimestres>
+                    <Trimestre1>
+                        <librosVendidos>100</librosVendidos>
+                    </Trimestre1>
+                    <Trimestre2>
+                        <librosVendidos>200</librosVendidos>
+                    </Trimestre2>
+                    <Trimestre3>
+                        <librosVendidos>150</librosVendidos>
+                    </Trimestre3>
+                    <Trimestre4>
+                        <librosVendidos>250</librosVendidos>
+                    </Trimestre4>
+                </Trimestres>
+            </Norte>
+            <Centro>
+                <Trimestres>
+                    <Trimestre1>
+                        <librosVendidos>300</librosVendidos>
+                    </Trimestre1>
+                    <Trimestre2>
+                        <librosVendidos>400</librosVendidos>
+                    </Trimestre2>
+                    <Trimestre3>
+                        <librosVendidos>350</librosVendidos>
+                    </Trimestre3>
+                    <Trimestre4>
+                        <librosVendidos>450</librosVendidos>
+                    </Trimestre4>
+                </Trimestres>
+            </Centro>
+            <Sur>
+                <Trimestres>
+                    <Trimestre1>
+                        <librosVendidos>500</librosVendidos>
+                    </Trimestre1>
+                    <Trimestre2>
+                        <librosVendidos>600</librosVendidos>
+                    </Trimestre2>
+                    <Trimestre3>
+                        <librosVendidos>550</librosVendidos>
+                    </Trimestre3>
+                    <Trimestre4>
+                        <librosVendidos>650</librosVendidos>
+                    </Trimestre4>
+                </Trimestres>
+            </Sur>
+        </Region>
+    </informeRegional>
+</informeVentas>
