@@ -1,0 +1,59 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "Generated schema for Root",
+    "type": "object",
+    "properties": {
+      "bachillerato": {
+        "type": "object",
+        "properties": {
+          "asignatura": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "nombre": {
+                  "type": "string"
+                },
+                "contenidos": {
+                  "type": "object",
+                  "properties": {
+                    "tema": {
+                      "type": "array",
+                      "items": {
+                        "type": "object",
+                        "properties": {
+                          "nombre": {
+                            "type": "string"
+                          },
+                          "descripcion": {
+                            "type": "string"
+                          }
+                        },
+                        "required": [
+                          "nombre",
+                          "descripcion"
+                        ]
+                      }
+                    }
+                  },
+                  "required": [
+                    "tema"
+                  ]
+                }
+              },
+              "required": [
+                "nombre",
+                "contenidos"
+              ]
+            }
+          }
+        },
+        "required": [
+          "asignatura"
+        ]
+      }
+    },
+    "required": [
+      "bachillerato"
+    ]
+  }

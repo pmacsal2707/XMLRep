@@ -1,0 +1,39 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "biblioteca": {
+        "type": "object",
+        "properties": {
+          "libro": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "titulo": {},
+                "autor": {
+                  "type": "string"
+                },
+                "publicacion": {},
+                "genero": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "titulo",
+                "autor",
+                "publicacion",
+                "genero"
+              ]
+            }
+          }
+        },
+        "required": [
+          "libro"
+        ]
+      }
+    },
+    "required": [
+      "biblioteca"
+    ]
+  }

@@ -1,0 +1,144 @@
+{
+    "modulosProfesionales": {
+      "modulo": [
+        {
+          "nombre": "Programación",
+          "contenidos": {
+            "unidadDidactica": [
+              {
+                "tipo": "Introducción a la programación",
+                "descripcion": "Esta unidad cubrirá los conceptos básicos de la programación, incluyendo variables, bucles y funciones."
+              },
+              {
+                "tipo": "Estructuras de datos",
+                "descripcion": "En esta unidad se explorarán diferentes tipos de estructuras de datos y cómo usarlas en la programación."
+              },
+              {
+                "tipo": "Programación orientada a objetos",
+                "descripcion": "Se introducirá el paradigma de la programación orientada a objetos, incluyendo clases, objetos y herencia."
+              },
+              {
+                "tipo": "Pruebas unitarias y control de calidad",
+                "descripcion": "Se explorarán técnicas para probar y mejorar la calidad del código de programación."
+              }
+            ]
+          }
+        },
+        {
+          "nombre": "Base de Datos",
+          "contenidos": {
+            "unidadDidactica": [
+              {
+                "tipo": "Introducción a las bases de datos",
+                "descripcion": "Esta unidad proporcionará una visión general de las bases de datos y su importancia en el mundo digital."
+              },
+              {
+                "tipo": "Modelado de bases de datos",
+                "descripcion": "En esta unidad, se explorarán los conceptos clave del modelado de bases de datos, incluyendo entidades, relaciones y cardinalidad."
+              },
+              {
+                "tipo": "SQL y consultas de bases de datos",
+                "descripcion": "Se introducirá el lenguaje SQL y se aprenderán técnicas para escribir y optimizar consultas de bases de datos."
+              },
+              {
+                "tipo": "Seguridad y privacidad en las bases de datos",
+                "descripcion": "Se explorarán las prácticas recomendadas para garantizar la seguridad y la privacidad de los datos almacenados en las bases de datos."
+              }
+            ]
+          }
+        },
+        {
+          "nombre": "Sistemas Informáticos",
+          "contenidos": {
+            "unidadDidactica": [
+              {
+                "tipo": "Introducción a las tecnologías de la información y las comunicaciones",
+                "descripcion": "Esta unidad cubrirá los conceptos básicos de la tecnología de la información y las comunicaciones, incluyendo las redes de computadoras y los protocolos de internet."
+              },
+              {
+                "tipo": "Herramientas con aplicación en ingeniería para la gestión de proyectos",
+                "descripcion": "En esta unidad, se explorarán las herramientas que se utilizan en la gestión de proyectos, como los diagramas de Gantt y PERT, así como otras herramientas de gestión de proyectos."
+              },
+              {
+                "tipo": "Fundamentos de los sistemas operativos",
+                "descripcion": "Se introducirán los conceptos básicos de los sistemas operativos, incluyendo servicios de un sistema operativo, interfaces de usuario, llamadas al sistema y diseño e implementación de un sistema operativo."
+              },
+              {
+                "tipo": "Introducción a las bases de datos y al lenguaje SQL",
+                "descripcion": "Se explorarán los conceptos básicos de las bases de datos y se introducirá el lenguaje SQL. Se cubrirán temas como la gestión de procesos, diseño de bases de datos, administración de bases de datos y seguridad de las bases de datos."
+              }
+            ]
+          }
+        },
+        {
+          "nombre": "Lenguajes de Marca y Sistemas de Gestión de Información",
+          "contenidos": {
+            "unidadDidactica": [
+              {
+                "tipo": "Introducción a HTML y CSS",
+                "descripcion": "Esta unidad proporcionará una visión general de los lenguajes de marca HTML y CSS, incluyendo cómo crear y estilizar páginas web."
+              },
+              {
+                "tipo": "JavaScript y su uso en la web",
+                "descripcion": "En esta unidad, se explorarán los fundamentos de JavaScript y cómo se utiliza para añadir interactividad a las páginas web."
+              },
+              {
+                "tipo": "Introducción a los sistemas de gestión de contenido (CMS)",
+                "descripcion": "Se introducirán los sistemas de gestión de contenido, como WordPress y Drupal, y se aprenderá cómo se utilizan para crear y administrar sitios web."
+              },
+              {
+                "tipo": "SEO y marketing digital",
+                "descripcion": "Se explorarán las técnicas de SEO y marketing digital para ayudar a los sitios web a aparecer en los motores de búsqueda y atraer tráfico."
+              }
+            ]
+          }
+        },
+        {
+          "nombre": "Entornos de Desarrollo",
+          "contenidos": {
+            "unidadDidactica": [
+              {
+                "tipo": "Introducción a los entornos de desarrollo",
+                "descripcion": "Esta unidad proporcionará una visión general de los entornos de desarrollo y su importancia en el desarrollo de software."
+              },
+              {
+                "tipo": "Tipos de entornos de desarrollo",
+                "descripcion": "En esta unidad, se explorarán diferentes tipos de entornos de desarrollo, incluyendo servidores de desarrollo, servidores de pruebas, servidores de puesta en escena y servidores de producción."
+              },
+              {
+                "tipo": "Uso de entornos de desarrollo integrados (IDE)",
+                "descripcion": "Se introducirán los entornos de desarrollo integrados, como Eclipse y NetBeans, y se aprenderá cómo se utilizan para escribir, generar, probar y depurar programas."
+              },
+              {
+                "tipo": "Gestión de proyectos y entornos de desarrollo",
+                "descripcion": "Se explorarán las mejores prácticas para la gestión de proyectos y el uso de entornos de desarrollo, incluyendo cómo minimizar los errores y mejorar la productividad."
+              }
+            ]
+          }
+        },
+        {
+          "nombre": "Formación y Orientación Laboral",
+          "contenidos": {
+            "unidadDidactica": [
+              {
+                "tipo": "Introducción a la formación y orientación laboral",
+                "descripcion": "Esta unidad proporcionará una visión general de la formación y orientación laboral, incluyendo su importancia y objetivos."
+              },
+              {
+                "tipo": "Campos de trabajo y habilidades requeridas",
+                "descripcion": "En esta unidad, se explorarán los diferentes campos de trabajo disponibles y las habilidades necesarias para trabajar en cada uno."
+              },
+              {
+                "tipo": "Derechos y deberes laborales",
+                "descripcion": "Se introducirán los derechos y deberes laborales, incluyendo aspectos legales y éticos relacionados con el lugar de trabajo."
+              },
+              {
+                "tipo": "Riesgos laborales y prevención",
+                "descripcion": "Se explorarán los riesgos laborales comunes y las medidas preventivas para proteger la salud y la seguridad en el lugar de trabajo."
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }

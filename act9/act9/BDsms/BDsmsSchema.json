@@ -1,0 +1,43 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "BDsms": {
+        "type": "object",
+        "properties": {
+          "sms": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "telefono": {
+                  "type": "string"
+                },
+                "fecha": {
+                  "type": "string"
+                },
+                "hora": {
+                  "type": "string"
+                },
+                "mensaje": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "telefono",
+                "fecha",
+                "hora",
+                "mensaje"
+              ]
+            }
+          }
+        },
+        "required": [
+          "sms"
+        ]
+      }
+    },
+    "required": [
+      "BDsms"
+    ]
+  }

@@ -1,0 +1,75 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "clientes": {
+        "type": "object",
+        "properties": {
+          "sede": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "dir1": {
+                  "type": "string"
+                },
+                "dir2": {
+                  "type": "string"
+                },
+                "empleado": {
+                  "type": "string"
+                },
+                "fecha": {
+                  "type": "string"
+                },
+                "cliente1": {
+                  "type": "object",
+                  "properties": {
+                    "cod": {
+                      "type": "number"
+                    },
+                    "descripcion": {
+                      "type": "string"
+                    },
+                    "numero": {
+                      "type": "number"
+                    },
+                    "coste": {
+                      "type": "string"
+                    },
+                    "resumen": {
+                      "type": "string"
+                    },
+                    "plazo": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "cod",
+                    "descripcion",
+                    "numero",
+                    "coste",
+                    "resumen",
+                    "plazo"
+                  ]
+                }
+              },
+              "required": [
+                "dir1",
+                "dir2",
+                "empleado",
+                "fecha",
+                "cliente1"
+              ]
+            }
+          }
+        },
+        "required": [
+          "sede"
+        ]
+      }
+    },
+    "required": [
+      "clientes"
+    ]
+  }

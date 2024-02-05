@@ -1,0 +1,46 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "Generated schema for Root",
+    "type": "object",
+    "properties": {
+      "equipos": {
+        "type": "object",
+        "properties": {
+          "equipo": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "nombre": {
+                  "type": "string"
+                },
+                "presupuesto": {
+                  "type": "number"
+                },
+                "historia": {
+                  "type": "string"
+                },
+                "diseño": {
+                  "type": "string"
+                },
+                "color": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "nombre",
+                "presupuesto",
+                "historia"
+              ]
+            }
+          }
+        },
+        "required": [
+          "equipo"
+        ]
+      }
+    },
+    "required": [
+      "equipos"
+    ]
+  }
